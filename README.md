@@ -24,13 +24,13 @@ To set up and run the project locally, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/autoreply-agents.git
+   git clone https://github.com/your-username/hack-x.git
    ```
 
 2. **Install dependencies:**
 
    ```bash
-   cd autoreply-agents
+   cd hack-x
    pip install -r requirements.txt
    ```
 
@@ -74,9 +74,8 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 
 For inquiries or support, please contact the project maintainers:
 
-- Your Name
+- Lakshay Jindal
   - GitHub: [your-github-profile](https://github.com/lakshayjindal)
   - Email: ljindal275@gmail.com
 
 We appreciate your interest in AutoReply Agents!
-```
